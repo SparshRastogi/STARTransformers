@@ -10,9 +10,8 @@ Our Innovation: Our project is an all-encompassing answer to the STAR Challenge,
 2. Robust Cyber-security: We ensure data security by encrypting APIs with AES, air-gapping the LLM Interface using docker, user authentication and further whitelisting computer IPs thereby protecting sensitive information, and adhering to ITAR and EAR regulations.
 3. Integration of Augmented Reality (Future Prospect): As a futuristic feature, we intend to integrate AR capabilities into our app, thereby enhancing astronaut and worker safety, guidance, and emergency support. Its Importance: Our project is essential for a number of reasons:
 
-``` text
 (1) Accuracy and Clarity: Our app improves the safety and success of space missions by enhancing the precision and clarity of technical requirements, thereby reducing the likelihood of errors. Adoption by Users: The user-friendly API ensures that NASA personnel can readily adopt our solution, streamlining their document management processes. (3) Information Security: Our robust cyber-security safeguards protect sensitive data in accordance with national regulations and ethical obligations. (4) Future-Oriented: The planned incorporation of augmented reality demonstrates our commitment to innovation and safety in space exploration, thereby making our solution adaptable to changing requirements. In conclusion, our project comprehensively answers the STAR Challenge by addressing document-related issues and preparing for the future with cutting-edge augmented reality capabilities. It improves the quality of technical requirements, increases user adoption, guarantees data security, and paves the way for safer and more productive space missions.
-```
+
 
 ## Project Demo
 
